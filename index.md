@@ -3,6 +3,12 @@ layout: page
 title: dslm test site
 ---
 
+### Curated Pages
+[Personas](pages/PERSONA.html)
+
+
+### The Rest of the Pages
+
 [Overview](pages/overview.html)
 
 [Page1](pages/page1.html)
