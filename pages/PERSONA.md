@@ -1,5 +1,6 @@
 ---
-# PERSONA
+Layout: page
+title: PERSONA
 ---
 ## DESCRIPTION
 A description of a character that the product will be designed for represents the needs of larger groups of users, in terms of their motivations, expectations and goals 
