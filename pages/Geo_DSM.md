@@ -1,10 +1,6 @@
-            |   **Persona**  |  
+____________|   **Persona**  |____________
 ------------|----------------|------------
-            |                |  based on content from Panos Papalambros![GitHub Logo](/images/logo.png) Format: ![Alt Text](url)
-
-
-           
-
+__|__|  based on content from Panos Papalambros![GitHub Logo](/images/logo.png) Format: ![Alt Text](url)
 
 
 *Persona is an archetype, a stereotype, . . . Fictitious but real*
