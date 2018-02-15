@@ -6,9 +6,10 @@ title: dslm test site
 ### Curated Pages
 [Personas](pages/PERSONA.html)
 
+### Other Pages
+[Personas](pages/Persona_P1.html)
 
 ### The Rest of the Pages
-
 [Overview](pages/overview.html)
 
 [Page1](pages/page1.html)
