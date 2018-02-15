@@ -1,5 +1,5 @@
 # PERSONA
-### By Panos
+### By Paula
 
 ## Description:
 Persona is an archetype, a stereotype,....Fictious but real.
