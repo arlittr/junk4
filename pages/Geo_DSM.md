@@ -1,9 +1,6 @@
-
-
-
-             |   **Persona**   |  
------------- | ----------------| ------------
-             |                 |  based on content from Panos Papalambros![GitHub Logo](/images/logo.png) Format: ![Alt Text](url)
+            |   **Persona**  |  
+------------|----------------|------------
+            |                |  based on content from Panos Papalambros![GitHub Logo](/images/logo.png) Format: ![Alt Text](url)
 
 
            
