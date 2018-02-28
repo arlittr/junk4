@@ -1,18 +1,14 @@
-## Simple site: Easy websites with GitHub pages
+Turn back, everything is broken.
 
-[Github Pages](https://pages.github.com) provide a simple way to make a
-website using Markdown and git.
+## Downloading
+- [How to find modules on website]()
+- [How to search modules on github]()
 
-This is a minimal tutorial to get started.
+## Contributing
+- [Creating a new module](https://github.com/arlittr/junk4/wiki/Adding-a-module)
+- [Suggesting changes to a module]()
+- [Creating a new variant of an existing module]()
 
-View the thing [here](http://kbroman.org/simple_site).
-
----
-
-To the extent possible under law,
-[Karl Broman](https://github.com/kbroman)
-has waived all copyright and related or neighboring rights to
-&ldquo;[simple site](https://github.com/kbroman/simple_site)&rdquo;.
-This work is published from the United States.
-<br/>
-[![CC0](https://i.creativecommons.org/p/zero/1.0/88x31.png)](https://creativecommons.org/publicdomain/zero/1.0/)
+## Reviewing
+- [How to review a module]()
+- [How we curate]()
